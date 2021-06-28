@@ -1,0 +1,435 @@
+Cmp-Mod V01 Created by PcbNew   date = Wednesday, 10 June 2020 at 11:22:03
+
+BeginCmp
+TimeStamp = 5EE25B5E
+Path = /5EF4A7CD
+Reference = H12;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EE25B56
+Path = /5EF49F73
+Reference = H11;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EE243F9
+Path = 
+Reference = LOGO1;
+ValeurCmp = KiCad-Logo2_5mm_SilkScreen;
+IdModule  = scratchboy_misc:KiCad-Logo2_5mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EE204A1
+Path = /5EE96070
+Reference = J10;
+ValeurCmp = I2C;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EE2048A
+Path = /5EEA7FE9
+Reference = J9;
+ValeurCmp = SPI;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EE1E735
+Path = /5EE5F55D
+Reference = D4;
+ValeurCmp = 1N4007;
+IdModule  = Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EE2EE70
+Path = 
+Reference = REF**;
+ValeurCmp = N20_MOTOR_ENCODER;
+IdModule  = scratchboy:N20_MOTOR_ENCODER;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EE2EAA2
+Path = 
+Reference = REF**;
+ValeurCmp = N20_MOTOR_ENCODER;
+IdModule  = scratchboy:N20_MOTOR_ENCODER;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EE0A347
+Path = 
+Reference = REF**;
+ValeurCmp = codecar_dog;
+IdModule  = cat:codecar_dog;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EEDDD7B
+Reference = M1;
+ValeurCmp = Microbit;
+IdModule  = scratchboy_misc:Microbit;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE80F39
+Reference = J8;
+ValeurCmp = Conn_01x02;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE7B85C
+Reference = H10;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_2.2mm_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE7B201
+Reference = H9;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_2.2mm_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE7AB1A
+Reference = H8;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_2.2mm_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE7A41B
+Reference = H7;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_2.2mm_M2;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = LOGO1;
+ValeurCmp = CodeCar_Logo;
+IdModule  = scratchboy_misc:CodeCar_Logo;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = AUTHOR1;
+ValeurCmp = dahai_tiny;
+IdModule  = scratchboy_misc:dahai_tiny;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = LOGO3;
+ValeurCmp = SN;
+IdModule  = scratchboy_misc:SN;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = 
+Reference = LOGO2;
+ValeurCmp = funsteam_logo;
+IdModule  = scratchboy_misc:funsteam_logo;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EEAEB6A
+Reference = H6;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_4.3mm_M4;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EEAE181
+Reference = H5;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_4.3mm_M4;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EEADA0E
+Reference = H4;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EEAD557
+Reference = H3;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EEAC70E
+Reference = H2;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EEABD33
+Reference = H1;
+ValeurCmp = MountingHole;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE92494
+Reference = C6;
+ValeurCmp = 47u;
+IdModule  = Capacitor_THT:C_Radial_D8.0mm_H7.0mm_P3.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE32DA0
+Reference = J3;
+ValeurCmp = ICSP;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE66224
+Reference = Y1;
+ValeurCmp = 16MHz;
+IdModule  = Crystal:Crystal_HC49-4H_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE6D1F0
+Reference = U2;
+ValeurCmp = AP1117-33;
+IdModule  = Package_TO_SOT_SMD:SOT-223-3_TabPin2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5EE1DB6B
+Path = /5EE5E250
+Reference = U1;
+ValeurCmp = ATmega328P-PU;
+IdModule  = Package_DIP:DIP-28_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE8CD4E
+Reference = SW1;
+ValeurCmp = SW_SPDT;
+IdModule  = Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EF62928
+Reference = R6;
+ValeurCmp = R_US;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE77F8D
+Reference = R5;
+ValeurCmp = R_US;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE63C88
+Reference = R4;
+ValeurCmp = R_US;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE4D7C1
+Reference = R3;
+ValeurCmp = 68;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE4C27F
+Reference = R2;
+ValeurCmp = 68;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE6062C
+Reference = R1;
+ValeurCmp = 1k5;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EF605F3
+Reference = Q1;
+ValeurCmp = Q_NPN_BCE;
+IdModule  = Package_TO_SOT_THT:TO-92_Inline;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE5E86A
+Reference = J7;
+ValeurCmp = L9110S;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE1E971
+Reference = J6;
+ValeurCmp = MOTOR B ENCODER;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE22C94
+Reference = J5;
+ValeurCmp = MOTOR A ENCODER;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE0916A
+Reference = J4;
+ValeurCmp = NFC MODULE V3;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE09F5C
+Reference = J2;
+ValeurCmp = IO;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE4A41A
+Reference = J1;
+ValeurCmp = USB_B;
+IdModule  = Connector_USB:USB_B_Lumberg_2411_02_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE4542B
+Reference = D3;
+ValeurCmp = 1N47xxA;
+IdModule  = Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE87640
+Reference = D2;
+ValeurCmp = 1N4007;
+IdModule  = Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE44D0E
+Reference = D1;
+ValeurCmp = 1N47xxA;
+IdModule  = Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EF2B2A1
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE66A66
+Reference = C5;
+ValeurCmp = C;
+IdModule  = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE67143
+Reference = C4;
+ValeurCmp = C;
+IdModule  = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE79D95
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE74A08
+Reference = C2;
+ValeurCmp = 1u;
+IdModule  = Capacitor_THT:C_Radial_D8.0mm_H7.0mm_P3.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EE714D0
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 00000000
+Path = /5EF6D592
+Reference = BZ1;
+ValeurCmp = Buzzer;
+IdModule  = Buzzer_Beeper:Buzzer_12x9.5RM7.6;
+EndCmp
+
+EndListe
