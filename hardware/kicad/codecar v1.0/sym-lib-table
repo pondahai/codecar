@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name codecar-rescue)(type Legacy)(uri ${KIPRJMOD}/codecar-rescue.lib)(options "")(descr ""))
-)
